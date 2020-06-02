@@ -12,6 +12,18 @@ class App extends Component {
           work="8002222222"
           email="hello@example.com"
         />
+        <ContactCard
+          name="Jill"
+          mobile="7185555555"
+          work="7182222222"
+          email="jill@example.org"
+        />
+        <ContactCard
+          name="Mike"
+          mobile="3475555555"
+          work="5552222222"
+          email="mike@example.com"
+        />
       </>
     );
   }
